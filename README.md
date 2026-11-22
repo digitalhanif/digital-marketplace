@@ -49,7 +49,7 @@ Digital Marketplace is my structured Etsy research and decision-support system. 
 
 **Digital Marketplace** is the independent product brand. This toolkit currently focuses on research for sellers using the Etsy marketplace. The word *Etsy* is used descriptively to identify that third-party marketplace; it is not part of the product's brand name. This is not an Etsy product, and no association or authorization is implied.
 
-**Public repository:** [digitalhanif/digital-marketplace-public](https://github.com/digitalhanif/digital-marketplace-public).
+**Public repository:** [digitalhanif/digital-marketplace](https://github.com/digitalhanif/digital-marketplace).
 
 ## See it in action
 
@@ -107,7 +107,7 @@ The system is designed for digital products first, with support for Etsy-eligibl
 Open PowerShell in the directory where the project should be stored:
 
 ```powershell
-git clone https://github.com/digitalhanif/digital-marketplace-public.git digital-marketplace
+git clone https://github.com/digitalhanif/digital-marketplace.git digital-marketplace
 cd digital-marketplace
 ```
 
