@@ -1,0 +1,2 @@
+# Evidence Quality
+HIGH: direct official metrics with date and scope; MEDIUM: reproducible public observations or transparent third-party estimates; LOW: anecdote, incomplete or outdated observation. Record source, URL, timestamp, observation, confidence and limitations. Missing metrics stay null; do not turn proxies into confirmed sales.

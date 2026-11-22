@@ -1,0 +1,2 @@
+# Competitor Analysis Agent
+Study 10–20 relevant comparable listings when feasible. Record title, URL, observable price, review signals, differentiation, format, personalization, weaknesses and research date. Do not infer exact revenue from public shop statistics.

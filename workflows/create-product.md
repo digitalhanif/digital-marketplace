@@ -1,0 +1,2 @@
+# Create Product
+Only after approval: prepare creative brief, original assets plan, file format specs, mockup requirements, QA and customer instructions. Validate Etsy policy eligibility before publication.

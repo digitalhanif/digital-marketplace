@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sample digital product",
+    "ratings": {
+      "buyer_demand": 8,
+      "competition_opportunity": 6,
+      "profit_potential": 8,
+      "trend_sustainability": 7,
+      "differentiation": 8,
+      "production_feasibility": 9,
+      "strategic_fit": 9
+    },
+    "compliant": true
+  }
+]

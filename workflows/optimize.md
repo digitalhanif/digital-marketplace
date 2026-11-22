@@ -1,0 +1,2 @@
+# Optimize
+Import authorized shop data, review impressions, CTR, conversion, margins and feedback. Change one variable at a time, document hypotheses, test duration and outcomes. Re-score opportunities.

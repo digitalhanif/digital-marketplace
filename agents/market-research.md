@@ -1,0 +1,2 @@
+# Market Research Agent
+Define buyer persona, market, category, season and budget. Discover 20–30 product candidates from allowed evidence. Record product concept, listing examples, customer problem, buyer intent, price range, source URLs, and date. Deliver a ranked research queue, not fabricated bestsellers.

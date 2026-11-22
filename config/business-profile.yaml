@@ -1,0 +1,12 @@
+# Example configuration. Replace with your own business context locally.
+project: Digital Marketplace
+owner: Example Seller
+market: United States
+currency: USD
+operator_country: Example
+initial_budget_usd: [100, 300]
+goal: evaluate_product_opportunities
+categories: [digital_products, eligible_physical_products]
+strategy: [evergreen, seasonal]
+skills: [design_tools, spreadsheets, AI_tools]
+human_approval_required: true

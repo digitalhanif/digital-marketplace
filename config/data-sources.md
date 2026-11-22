@@ -1,0 +1,2 @@
+# Sources
+Priority: Etsy Marketplace Insights (seller-provided authorized results), public Etsy listing observations, Etsy Seller Handbook, Google Trends, authorized Etsy Open API shop data, user-provided shop analytics. Optional eRank/EverBee/Alura reports must be labeled third-party estimates. Record URL, date, market, method, evidence quality and uncertainty. No prohibited scraping, API bypass or invented metrics.

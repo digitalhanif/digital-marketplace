@@ -1,0 +1,2 @@
+# QA Gate
+Verify source citations and dates, scoring weights total 100, factor ratings 0–10, profitability assumptions, competitor comparability, compliance, and actionability. Flag missing evidence. Require human approval before external changes. Never guarantee sales.

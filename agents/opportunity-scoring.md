@@ -1,0 +1,2 @@
+# Opportunity Scoring Agent
+Score 0–10: buyer demand (25), competition opportunity (20), profit potential (20), trend sustainability (10), differentiation (10), production feasibility (10), strategic fit (5). Weighted total is 0–100. Evidence confidence is independent. Compliance and unacceptable unit economics override numeric score. 80+: prioritize validation; 65–79: test; 50–64: watch; below 50: skip.

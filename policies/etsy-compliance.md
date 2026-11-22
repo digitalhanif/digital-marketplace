@@ -1,0 +1,2 @@
+# Etsy Compliance
+Check current Etsy Creativity Standards, digital goods requirements, reselling rules, AI disclosure rules, IP/trademarks, physical sourcing, shipping, taxes and seller eligibility before launch. Never assume wholesale resale is eligible. Reject prohibited products. Seek current policy sources and human review.
